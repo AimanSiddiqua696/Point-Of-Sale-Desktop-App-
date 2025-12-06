@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Customer\AdvanceCustomerFeatures.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customer\CustomerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customer\PointOfSale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customer\SearchByAddress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customer\SearchCustomerByAge.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customer\SearchCustomerByContact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customer\SearchCustomerByFirstCharacter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customer\SearchCustomerByName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Order\OrderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Product\AdvanceSearchOptionsOfTheProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Product\ProductForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Product\SearchByName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Product\SearchProductBy PriceDifference.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Product\SearchProductByPrice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Product\SearchProductByPriceRange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Product\SearchProductBySubString.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
